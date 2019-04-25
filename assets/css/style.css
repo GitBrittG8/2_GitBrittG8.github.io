@@ -64,12 +64,13 @@ h2, h3 {
 }
 
 img {
-  max-width:200px;
+  max-width:175px;
   height: auto;
   display: block;
   float: left;
   margin-right: 50px;
   margin-top: 25px;
+  margin-bottom:10px;
 }
 
 p {
